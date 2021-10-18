@@ -12,9 +12,6 @@
     { "id": 1, "nome": "Evandro", "email": "evandro@fake.com" },
     { "id": 2, "nome": "Jaqueline", "email": "jaqueline@fake.com" }
   ],
-  "profile": {
-    "name": "typicode"
-  },
     "hotels": [
       {
         "index": 1,
