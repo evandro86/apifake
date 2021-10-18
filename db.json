@@ -11,7 +11,153 @@
   "profile": {
     "name": "typicode"
   },
-  "api/tours/itinerary": [{"itinerary":[{"day":1,"description":"Bem-vindos. Traslado ao hotel e tempo livre. Você receberá de tarde informação para o início do seu roteiro, ou através   dos cartazes informativos localizados na recepção do hotel.","cities":[{"name":"Frankfurt","index":0}]},{"day":2,"description":"Hoje é dia de conhecer o Vale do Reno e Mosela, dois rios históricos e com povoados cheios de encanto. Se fará um pequeno cruzeiro pelo rio Reno, entre os povoados de RUDESHEIM e ST. GOAR. Sem dúvida, o lugar mais pitoresco do Reno. Posteriormente, tempo para almoçar em COCHEM, às margens do rio Mosela. Conheceremos também o incrível Burg Eltz, castelo medieval cercado de bosques entre montanhas. Chegada em COLÔNIA prevista para o final da tarde, tempo para passear na ativa área da catedral antes de dar continuidade ao nosso hotel localizado em DUSSELDORF. Nota: em alguma data o alojamento poderá ser feito em Colônia. ","cities":[{"name":"Frankfurt","index":0},{"name":"Reno","index":0},{"name":"Colônia","index":0},{"name":"Dusseldorf","index":0}]},{"day":3,"description":"Um passeio por DUSSELDORF, cidade às margens do Reno, no centro da região mais industrial da Alemanha. Continuaremos rumo a ZOLLVEREIN, um dos pontos mais importantes da “rota europeia da herança industrial”, visitaremos seu complexo industrial da mina de carvão, declarado Patrimônio da Humanidade pela UNESCO. Seguiremos para o norte, pararemos em HAMELIN, no norte da Alemanha. Esta cidade se tornou popular devido ao conto folclórico \"O Flautista de Hamelin\". Após passar pelas \"pegadas dos ratos\", a viagem continua até HANNOVER. Tempo para conhecer o centro desta imponente cidade. Nota: Datas de feiras e congresso o alojamento poderá ser feito em alguma cidade próxima.","cities":[{"name":"Dusseldorf","index":0},{"name":"Hamelin","index":0},{"name":"Hannover","index":0}]},{"day":4,"description":"Tempo livre em HANNOVER, antes de continuar  a viagem até GOSLAR,  um dos mais belos povoados da Alemanha, com sua arquitetura de  madeira, suas muralhas e praças. Tempo para passear e almoçar. Continuação  até BERLIM.  Chegada no meio da tarde. Tempo livre (ou visita da cidade dependendo  da época do ano).","cities":[{"name":"Hannover","index":0},{"name":"Goslar","index":0},{"name":"Berlim","index":0}]},{"day":5,"description":"Faremos  uma visita panorâmica pela incrível e pujante capital da Alemanha.  Conheceremos o centro histórico, a ilha dos museus, o Reichstag, o Portão de  Brandemburgo, suas artérias comerciais e seus parques. Conheceremos também o  impressionante Memorial do Holocausto  e o Museu-memorial do Muro de Berlim.  Opcionalmente, sugere-se conhecer os arredores de Postdam  com seus belos palácios.     ","cities":[{"name":"Berlim","index":0}]},{"day":6,"description":"Tempo livre em BERLIM. às 11:30 saída rumo ao norte da Alemanha. Na cidade de Rostock, embarque em ferry (saída prevista às 15:30 horas) cruzando o mar  Báltico rumo à Dinamarca. Travessia com duração aproximada de duas horas.  Desembarque na Dinamarca e continuação da viagem através de agradáveis  paisagens. Chegada em COPENHAGUE no final do dia.","cities":[{"name":"Berlim","index":0},{"name":"Copenhague","index":0}]},{"day":7,"description":"Pela manhã visita panorâmica com guia local, à capital dinamarquesa que é a  maior cidade escandinava, repleta de contrastes: seu popular  \"Tivoli\", o Palácio de Christianborg, Nyhavn, a estátua \"Pequena  Sereia\"... Tarde livre.","cities":[{"name":"Copenhague","index":0}]},{"day":8,"description":"A viagem continua até HELSINGOR,  a cidade de Hamlet, na qual se destaca seu grande Castelo de Kronborg. em seguida a viagem prossegue para a SUÉCIA com uma curta  travessia em ferry (viagem curta de 20 minutos, na qual se recomenda realizar  câmbio monetário para obter Coroas Suecas). A viagem prossegue entre paisagens  de lagos grandes e densas florestas. Em JONKOPING, tempo para passear e  almoçar nesta pequena cidade moderna com seu grande lago. A viagem segue até MARIEFRED,  pitoresco povoado com casas tradicionais, o pequeno porto desportivo e o seu  castelo. Tempo para passear. Continuação à ESTOCOLMO. Chegada no final do dia.","cities":[{"name":"Copenhague","index":0},{"name":"Jönköping","index":0},{"name":"Mariefred","index":0},{"name":"Estocolmo","index":0}]},{"day":9,"description":"Faremos uma visita panorâmica à belíssima capital construída nas 13 ilhas unidas entre si. Conheceremos Gamla Stand ou “Cidade entre as Pontes”, centro histórico da cidade cheio de vida onde estão muitos dos edifícios monumentais como o Museu Nobel, situado junto à Praça de Stortorget, que homenageia os ganhadores dos Prêmios Nobel, a Catedral ou o Palácio Real. Quando for possível poderemos desfrutar de uma bela vista a partir do mirante de Fjällgatan. Tempo livre. Recomendamos conhecer seus museus e parques.  Sugerimos que opcionalmente faça uma visita à prefeitura e ao navio-museu Vasa.","cities":[{"name":"Estocolmo","index":0}]},{"day":10,"description":"Após o café da manhã, fim dos nossos serviços.","cities":[{"name":"Estocolmo","index":0}]}]}
-]
-
+  "itinerary":
+    {
+      "itinerary": [
+        {
+          "day": 1,
+          "description": "Bem-vindos. Traslado ao hotel e tempo livre. Você receberá de tarde informação para o início do seu roteiro, ou através   dos cartazes informativos localizados na recepção do hotel.",
+          "cities": [
+            {
+              "name": "Frankfurt",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "description": "Hoje é dia de conhecer o Vale do Reno e Mosela, dois rios históricos e com povoados cheios de encanto. Se fará um pequeno cruzeiro pelo rio Reno, entre os povoados de RUDESHEIM e ST. GOAR. Sem dúvida, o lugar mais pitoresco do Reno. Posteriormente, tempo para almoçar em COCHEM, às margens do rio Mosela. Conheceremos também o incrível Burg Eltz, castelo medieval cercado de bosques entre montanhas. Chegada em COLÔNIA prevista para o final da tarde, tempo para passear na ativa área da catedral antes de dar continuidade ao nosso hotel localizado em DUSSELDORF. Nota: em alguma data o alojamento poderá ser feito em Colônia. ",
+          "cities": [
+            {
+              "name": "Frankfurt",
+              "index": 0
+            },
+            {
+              "name": "Reno",
+              "index": 0
+            },
+            {
+              "name": "Colônia",
+              "index": 0
+            },
+            {
+              "name": "Dusseldorf",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "description": "Um passeio por DUSSELDORF, cidade às margens do Reno, no centro da região mais industrial da Alemanha. Continuaremos rumo a ZOLLVEREIN, um dos pontos mais importantes da “rota europeia da herança industrial”, visitaremos seu complexo industrial da mina de carvão, declarado Patrimônio da Humanidade pela UNESCO. Seguiremos para o norte, pararemos em HAMELIN, no norte da Alemanha. Esta cidade se tornou popular devido ao conto folclórico \"O Flautista de Hamelin\". Após passar pelas \"pegadas dos ratos\", a viagem continua até HANNOVER. Tempo para conhecer o centro desta imponente cidade. Nota: Datas de feiras e congresso o alojamento poderá ser feito em alguma cidade próxima.",
+          "cities": [
+            {
+              "name": "Dusseldorf",
+              "index": 0
+            },
+            {
+              "name": "Hamelin",
+              "index": 0
+            },
+            {
+              "name": "Hannover",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "description": "Tempo livre em HANNOVER, antes de continuar  a viagem até GOSLAR,  um dos mais belos povoados da Alemanha, com sua arquitetura de  madeira, suas muralhas e praças. Tempo para passear e almoçar. Continuação  até BERLIM.  Chegada no meio da tarde. Tempo livre (ou visita da cidade dependendo  da época do ano).",
+          "cities": [
+            {
+              "name": "Hannover",
+              "index": 0
+            },
+            {
+              "name": "Goslar",
+              "index": 0
+            },
+            {
+              "name": "Berlim",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "description": "Faremos  uma visita panorâmica pela incrível e pujante capital da Alemanha.  Conheceremos o centro histórico, a ilha dos museus, o Reichstag, o Portão de  Brandemburgo, suas artérias comerciais e seus parques. Conheceremos também o  impressionante Memorial do Holocausto  e o Museu-memorial do Muro de Berlim.  Opcionalmente, sugere-se conhecer os arredores de Postdam  com seus belos palácios.     ",
+          "cities": [
+            {
+              "name": "Berlim",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "description": "Tempo livre em BERLIM. às 11:30 saída rumo ao norte da Alemanha. Na cidade de Rostock, embarque em ferry (saída prevista às 15:30 horas) cruzando o mar  Báltico rumo à Dinamarca. Travessia com duração aproximada de duas horas.  Desembarque na Dinamarca e continuação da viagem através de agradáveis  paisagens. Chegada em COPENHAGUE no final do dia.",
+          "cities": [
+            {
+              "name": "Berlim",
+              "index": 0
+            },
+            {
+              "name": "Copenhague",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "description": "Pela manhã visita panorâmica com guia local, à capital dinamarquesa que é a  maior cidade escandinava, repleta de contrastes: seu popular  \"Tivoli\", o Palácio de Christianborg, Nyhavn, a estátua \"Pequena  Sereia\"... Tarde livre.",
+          "cities": [
+            {
+              "name": "Copenhague",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "description": "A viagem continua até HELSINGOR,  a cidade de Hamlet, na qual se destaca seu grande Castelo de Kronborg. em seguida a viagem prossegue para a SUÉCIA com uma curta  travessia em ferry (viagem curta de 20 minutos, na qual se recomenda realizar  câmbio monetário para obter Coroas Suecas). A viagem prossegue entre paisagens  de lagos grandes e densas florestas. Em JONKOPING, tempo para passear e  almoçar nesta pequena cidade moderna com seu grande lago. A viagem segue até MARIEFRED,  pitoresco povoado com casas tradicionais, o pequeno porto desportivo e o seu  castelo. Tempo para passear. Continuação à ESTOCOLMO. Chegada no final do dia.",
+          "cities": [
+            {
+              "name": "Copenhague",
+              "index": 0
+            },
+            {
+              "name": "Jönköping",
+              "index": 0
+            },
+            {
+              "name": "Mariefred",
+              "index": 0
+            },
+            {
+              "name": "Estocolmo",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "description": "Faremos uma visita panorâmica à belíssima capital construída nas 13 ilhas unidas entre si. Conheceremos Gamla Stand ou “Cidade entre as Pontes”, centro histórico da cidade cheio de vida onde estão muitos dos edifícios monumentais como o Museu Nobel, situado junto à Praça de Stortorget, que homenageia os ganhadores dos Prêmios Nobel, a Catedral ou o Palácio Real. Quando for possível poderemos desfrutar de uma bela vista a partir do mirante de Fjällgatan. Tempo livre. Recomendamos conhecer seus museus e parques.  Sugerimos que opcionalmente faça uma visita à prefeitura e ao navio-museu Vasa.",
+          "cities": [
+            {
+              "name": "Estocolmo",
+              "index": 0
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "description": "Após o café da manhã, fim dos nossos serviços.",
+          "cities": [
+            {
+              "name": "Estocolmo",
+              "index": 0
+            }
+          ]
+        }
+      ]
+    }
 }
