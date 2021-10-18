@@ -15,6 +15,35 @@
   "profile": {
     "name": "typicode"
   },
+    "hotels": [
+      {
+        "index": 1,
+        "id": "1591",
+        "name": "TRYP COIMBRA",
+        "stars": "",
+        "location": {
+          "country": "PORTUGAL",
+          "state": "",
+          "city": "Coimbra",
+          "latitude": "",
+          "longitude": ""
+        }
+      },
+      {
+        "index": 1,
+        "id": "23607",
+        "name": "ABBA GARDEN",
+        "stars": "",
+        "location": {
+          "country": "ESPAÑA",
+          "state": "",
+          "city": "Barcelona",
+          "latitude": "",
+          "longitude": ""
+        }
+      }
+    ],
+  
       "itinerary": [
         {
           "day": 1,
