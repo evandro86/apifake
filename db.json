@@ -11,8 +11,6 @@
   "profile": {
     "name": "typicode"
   },
-  "itinerary":
-    {
       "itinerary": [
         {
           "day": 1,
@@ -159,5 +157,5 @@
           ]
         }
       ]
-    }
+    
 }
